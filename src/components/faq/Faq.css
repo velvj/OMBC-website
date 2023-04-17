@@ -1,0 +1,41 @@
+.section-header-faq{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center; 
+    font-weight: bold;
+    color:#422D28;  
+    margin-top: 100px; 
+}
+b{
+    color:#422D28;
+    font-size: 50px;
+}
+.faqq{
+    text-align: left;
+    font-size: 15px;
+}
+.faqs{
+    margin-top: 30px;
+    border-radius: 0 !important;
+    padding: 20px;
+}
+.faqss{
+    margin-top: 25px;
+    border-radius: 0 !important  
+}
+.span{
+    float:right !important;
+}
+.topright {
+    color:#CFA480;
+    position: absolute;
+    top: 8px;
+    right: 16px;  
+    font-size: 30px;
+  }
+  .product_faq{
+    color:#422D28; 
+    margin-bottom: 20px; 
+  }
+  .pic{
+    margin-top: 50px;
+  }

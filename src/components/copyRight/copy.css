@@ -1,0 +1,14 @@
+.copyRight {
+  display: flex;
+  justify-content: flex-start;
+  margin-right: 400px;
+  background-color: white;
+  border: 3px solid rgb(255, 247, 247);
+  padding-top: 50px;
+  padding-bottom: 20px;
+  width: 100%;
+  margin-top: 100px;
+}
+#tags {
+  margin-left: 700px;
+}

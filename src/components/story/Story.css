@@ -1,0 +1,10 @@
+.section-headers {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left; 
+    font-weight: bold;
+    color:#422D28;  
+    margin-top: 140px;   
+}
+.card-texts{
+    text-align: left;
+}
